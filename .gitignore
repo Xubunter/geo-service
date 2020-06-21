@@ -1,0 +1,4 @@
+/node_modules/
+/cities/
+countries.txt
+.env

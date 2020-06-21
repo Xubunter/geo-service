@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div style="display: flex; align-items: flex-start;">
+    <input type="text" id="city">
+    <div id="data" style="margin-left:32px; padding: 8px; min-width: 200px; border: 1px solid black"></div>
+  </div>
+  
+
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script>
+    const cityInput = document.getElementById('city');
+    const dataEl = document.getElementById('data');
+    cityInput.addEventListener('input', (e) => {
+      const cityValue = e.target.value;
+      axios.get('./cities', {params: {country_id: 1, q: cityValue}})
+        .then(res => {
+          console.log(Object.keys(res.data))
+          dataEl.innerHTML = res.data.items.map(item => item.name).join('<br>')
+        })
+    })
+    
+  </script>
+</body>
+</html>
