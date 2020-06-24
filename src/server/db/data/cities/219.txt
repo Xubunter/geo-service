@@ -1,0 +1,10 @@
+
+1704932;Barentsburg;undefined;undefined,
+4271147;Grumantbyen;undefined;undefined,
+4271146;Haugen;undefined;undefined,
+1956288;Longyearbyen;undefined;undefined,
+5471747;Ny-Ålesund;undefined;undefined,
+5421412;Nybyen;undefined;undefined,
+5471748;Olonkinbyen;undefined;undefined,
+4271143;Pyramiden;undefined;undefined,
+4271142;Sveagruva;undefined;undefined

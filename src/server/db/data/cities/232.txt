@@ -1,0 +1,11 @@
+
+5469471;Aweil;undefined;undefined,
+5469477;Bentiu;undefined;undefined,
+5469476;Bor;undefined;undefined,
+5469468;Juba;undefined;undefined,
+5469473;Kuajok;undefined;undefined,
+5469470;Malakal;undefined;undefined,
+5469472;Rumbek;undefined;undefined,
+5469475;Torit;undefined;undefined,
+5469469;Wau;undefined;undefined,
+5469474;Yambio;undefined;undefined

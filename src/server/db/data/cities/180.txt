@@ -1,0 +1,8 @@
+
+5326638;Collectivité territoriale de Saint-Pierre-et-Miquelon;undefined;undefined,
+4636469;Commune de Miquelon-Langlade;undefined;Collectivité territoriale de Saint-Pierre-et-Miquelon,
+4636468;Commune de Saint-Pierre;undefined;Collectivité territoriale de Saint-Pierre-et-Miquelon,
+4636470;Miquelon;Commune de Miquelon-Langlade;Collectivité territoriale de Saint-Pierre-et-Miquelon,
+4636478;Petit Barachois;undefined;undefined,
+2722620;Saint-Pierre;Commune de Saint-Pierre;Collectivité territoriale de Saint-Pierre-et-Miquelon,
+4636466;Saint-Pierre et Miquelon;undefined;undefined

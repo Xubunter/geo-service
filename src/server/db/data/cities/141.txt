@@ -1,0 +1,17 @@
+
+2722646;Alofi;undefined;undefined,
+4905709;Avatele;undefined;undefined,
+4905708;Fatiau;undefined;undefined,
+4905707;Hakupu;undefined;undefined,
+4905706;Hikutivake;undefined;undefined,
+4905705;Huvalu;undefined;undefined,
+4905704;Lakepa;undefined;undefined,
+4905703;Liha;undefined;undefined,
+4905702;Liku;undefined;undefined,
+4905701;Makefu;undefined;undefined,
+4905700;Mamakula;undefined;undefined,
+4905699;Matalave;undefined;undefined,
+4905698;Mutalau;undefined;undefined,
+4905697;Niue;undefined;undefined,
+4905696;Taoli;undefined;undefined,
+4905695;Tuapa;undefined;undefined

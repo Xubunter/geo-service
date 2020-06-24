@@ -10,6 +10,9 @@ module.exports = {
         migrations: {
             directory: path.join(BASE_PATH, 'migrations')
         },
+        seeds: {
+            directory: path.join(BASE_PATH, 'seeds')
+        }
     },
     production: {
         client: 'pg',
@@ -17,6 +20,9 @@ module.exports = {
         migrations: {
             directory: path.join(BASE_PATH, 'migrations')
         },
+        seeds: {
+            directory: path.join(BASE_PATH, 'seeds')
+        }
     },
     pool: {
         min: 1,

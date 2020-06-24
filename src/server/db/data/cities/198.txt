@@ -1,0 +1,13 @@
+
+3993138;Asau;undefined;undefined,
+2722609;Funafuti;undefined;undefined,
+3993136;Kulia;undefined;undefined,
+3993135;Lolua;undefined;undefined,
+3993134;Matagi;undefined;undefined,
+3993133;Muli;undefined;undefined,
+3993132;Potufale;undefined;undefined,
+3993131;Saniuta;undefined;undefined,
+3993130;Tanrake;undefined;undefined,
+3993129;Tonga;undefined;undefined,
+3993128;Tuvalu;undefined;undefined,
+3993127;Vaitupu;undefined;undefined

@@ -3,7 +3,7 @@ require('dotenv').config()
 const express = require('express');
 const app = express();
 
-const { getCountries } = require('./db/queries/countries.js');
+const { getCountries, addCountry } = require('./db/queries/countries.js');
 const { getCities } = require('./db/queries/cities.js');
 const { normalizeQ } = require('./utils/normalize.js');
 
