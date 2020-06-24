@@ -16,6 +16,12 @@
   <script>
     const cityInput = document.getElementById('city');
     const dataEl = document.getElementById('data');
+    axios.get('./cities', {params: {country_id: 1, q: ''}})
+        .then(res => {
+          console.log(Object.keys(res.data))
+          dataEl.innerHTML = res.data.items.map(item => item.name).join('<br>')
+        })
+        
     cityInput.addEventListener('input', (e) => {
       const cityValue = e.target.value;
       axios.get('./cities', {params: {country_id: 1, q: cityValue}})
