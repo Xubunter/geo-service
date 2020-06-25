@@ -7,6 +7,12 @@ const { getCountries, addCountry } = require('./db/queries/countries.js');
 const { getCities } = require('./db/queries/cities.js');
 const { normalizeQ } = require('./utils/normalize.js');
 
+app.use(function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  next();
+});
+
 app.use(require('express-status-monitor')())
 
 app.use(function(err, req, res, next) {
